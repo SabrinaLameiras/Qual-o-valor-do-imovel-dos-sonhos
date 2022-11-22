@@ -1,5 +1,5 @@
 # Qual o valor do imovel dos meus sonhos?
-Neste modelo de trabalhei com dados de compra e venda de imóveis dos últimos 10 anos.
+Neste modelo de trabalhei com dados de compra e venda de imóveis dos últimos 10 anos - Tamanho do arquivo: 35.086 KB
 
 Optei por um modelo de regressão e trabalhei com Spark. Comecei conhecendo os dados, fiz a seleção de features e alguns tratamentos dos dados para trabalhar com eles sem grandes problemas.  
 
