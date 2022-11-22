@@ -1,5 +1,7 @@
 # Qual o valor do imovel dos meus sonhos?
-Qual o valor do Imóvel dos meus sonhos?  Neste modelo de regressão trabalhei com Spark. Comecei conhecendo os dados, fiz a seleção de features e alguns tratamentos dos dados para trabalhar com eles sem grandes problemas.  
+Neste modelo de trabalhei com dados de compra e venda de imóveis dos últimos 10 anos.
+
+Optei por um modelo de regressão e trabalhei com Spark. Comecei conhecendo os dados, fiz a seleção de features e alguns tratamentos dos dados para trabalhar com eles sem grandes problemas.  
 
 Depois, fiz a exploração dos dados para verificar se existia alguma relação ou correlação problemática e comecei a trabalhar com os modelos de regressão. O primeiro modelo com o qual trabalhei foi o de Regressão Linear. Então, passei para um modelo um tanto mais complexo, Árvore de Decisão. Ainda trabalhei com outro modelo que é ensemble (combinação de várias técnicas de machine learning ou uma mesma técnica repetida vezes) -- Random Forest. As métricas escolhidas para validação foram R2 e RMSE. 
 
